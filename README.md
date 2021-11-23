@@ -1,4 +1,4 @@
-# Hi, I'm epsilon ($\varepsilon$).
+# Hi, I'm epsilon.
 
 I am currently a Machine Learning Engineer, trying to apply the latest and best Deep Learning techniques to monitor and enhance massive amounts of social data. 
 I am specialized in Computer Vision, having significant experience applying [Object Detection in Archaeological Geophysical Surveys](https://github.com/epsln/LiDARAutoDetection), but I don't shy away from NLP or any other task for that matter.
